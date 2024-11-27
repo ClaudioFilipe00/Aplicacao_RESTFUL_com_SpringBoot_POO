@@ -57,11 +57,11 @@ A aplicação está estruturada em quatro camadas principais:
 Passo a Passo para Executar o Projeto
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/usuario/projeto-estoque-produtos.git
+   git clone https://github.com/ClaudioFilipe00/Aplicacao_RESTFUL_com_SpringBoot_POO.git
    ```
 2. Navegue para o diretório do projeto:
    ```bash
-   cd projeto-estoque-produtos
+   cd Aplicacao_RESTFUL_com_SpringBoot_POO
    ```
 3. Instale as dependências:
    ```bash
@@ -72,7 +72,7 @@ Passo a Passo para Executar o Projeto
    mvn spring-boot:run
    ```
 5. Acesse a aplicação:
-   Abra o navegador e vá para [http://localhost:8080](http://localhost:8080).
+   Abra o navegador e vá para [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html).
 ---
 ### Configuração do Banco de Dados
 
