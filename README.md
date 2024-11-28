@@ -93,6 +93,13 @@ spring.jpa.show-sql=true
 - Melhorar a interface do Swagger com customizações adicionais.
 ---
 
+## Integrantes do Grupo
+- Claudio Filipe Temoteo de farias
+- Giovanni zanco
+- Otavio matias Fernandes neto
+- Pedro Henrique Garcia brandão
+---
+
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 Licença
 
