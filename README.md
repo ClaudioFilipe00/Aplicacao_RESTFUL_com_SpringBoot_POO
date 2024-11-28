@@ -94,10 +94,10 @@ spring.jpa.show-sql=true
 ---
 
 ## Integrantes do Grupo
-- Claudio Filipe Temoteo de farias
-- Giovanni zanco
-- Otavio matias Fernandes neto
-- Pedro Henrique Garcia brandão
+- Claudio Filipe Temoteo de Farias
+- Giovanni Zanco
+- Otavio matias Fernandes Neto
+- Pedro Henrique Garcia Brandão
 ---
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
