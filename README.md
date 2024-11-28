@@ -96,7 +96,7 @@ spring.jpa.show-sql=true
 ## Integrantes do Grupo
 - Claudio Filipe Temoteo de Farias
 - Giovanni Zanco
-- Otavio matias Fernandes Neto
+- Otavio Matias Fernandes Neto
 - Pedro Henrique Garcia Brandão
 ---
 
